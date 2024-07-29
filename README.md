@@ -6,6 +6,7 @@ I am a first-generation rising senior studying Engineering and Computer Science 
 My journey in computer science has led me to develop a passion for data analysis, and I am now eager to transition into this field, specifically aiming to join a company that fosters my curiosity.
 
 ## Highlighted Projects
+
 | Project                                         | Skill         |
 |-----------------------------------------------|----------------------------|
 | <a href="https://github.com/syedalmasali/Pixel-Editor">Pixel Editor Lab</a>| Python |
