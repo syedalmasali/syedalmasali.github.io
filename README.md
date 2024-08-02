@@ -14,7 +14,7 @@ My journey in computer science has ignited a passion for data analysis and engin
 | <a href="https://github.com/syedalmasali/Pixel-Editor">Pixel Editor Lab</a>| Python |
 | <a href="https://github.com/syedalmasali/Pixel-Editor">BRDF Rational Approximations</a>| Computer Graphics |
 
-### Applications
+### Skills
 
 <div>
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
