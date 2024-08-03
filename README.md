@@ -11,8 +11,8 @@ My journey in computer science has ignited a passion for data analytics and soft
 
 | Project                                         | Skill         |
 |-----------------------------------------------|----------------------------|
-| <a href="https://github.com/syedalmasali/Palindrome">Palindrome</a>| Dynamic Programming |
 | <a href="https://github.com/syedalmasali/Computer-Graphics-Approximation">Computer Graphics Approximations</a>| Quadratic Programming |
+| <a href="https://github.com/syedalmasali/Palindrome">Palindrome</a>| Dynamic Programming |
 | <a href="https://github.com/syedalmasali/Adventurer-Game">Adventurer Game</a>| Object Oriented Programming |
 | <a href="https://github.com/syedalmasali/Food-Access">Food Access</a>| Data Processing |
 | <a href="https://github.com/syedalmasali/Pixel-Editor">Pixel Editor Lab</a>| Pixelization |
