@@ -13,6 +13,10 @@ My journey in computer science has ignited a passion for data analysis and engin
 |-----------------------------------------------|----------------------------|
 | <a href="https://github.com/syedalmasali/Pixel-Editor">Pixel Editor Lab</a>| Python |
 | <a href="https://github.com/syedalmasali/Pixel-Editor">BRDF Rational Approximations</a>| Computer Graphics |
+| <a href="https://github.com/syedalmasali/Pixel-Editor">Pixel Editor Lab</a>| Python |
+| <a href="https://github.com/syedalmasali/Pixel-Editor">BRDF Rational Approximations</a>| Computer Graphics |
+| <a href="https://github.com/syedalmasali/Pixel-Editor">Pixel Editor Lab</a>| Python |
+| <a href="https://github.com/syedalmasali/Pixel-Editor">BRDF Rational Approximations</a>| Computer Graphics |
 
 ### Skills
 
