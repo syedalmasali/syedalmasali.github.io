@@ -5,18 +5,19 @@ I am a first-generation rising senior at Swarthmore College, majoring in Enginee
 
 
 ## Objective
-My journey in computer science has ignited a passion for data analysis and engineering. I am eager to transition into this field by joining a company that nurtures my curiosity and supports continuous learning.
+My journey in computer science has ignited a passion for data analytics and software engineering. I am eager to transition into this field by joining a company that nurtures my curiosity and supports continuous learning.
 
 ## Highlighted Projects
 
 | Project                                         | Skill         |
 |-----------------------------------------------|----------------------------|
-| <a href="https://github.com/syedalmasali/Pixel-Editor">Pixel Editor Lab</a>| Python |
-| <a href="https://github.com/syedalmasali/Pixel-Editor">BRDF Rational Approximations</a>| Computer Graphics |
-| <a href="https://github.com/syedalmasali/Pixel-Editor">Pixel Editor Lab</a>| Python |
-| <a href="https://github.com/syedalmasali/Pixel-Editor">BRDF Rational Approximations</a>| Computer Graphics |
-| <a href="https://github.com/syedalmasali/Pixel-Editor">Pixel Editor Lab</a>| Python |
-| <a href="https://github.com/syedalmasali/Pixel-Editor">BRDF Rational Approximations</a>| Computer Graphics |
+| <a href="https://github.com/syedalmasali/Adventurer-Game">Adventurer Game</a>| Object Oriented Programming |
+| <a href="https://github.com/syedalmasali/Food-Access">Food Access</a>| Data Processing |
+| <a href="https://github.com/syedalmasali/Palindrome">Palindrome</a>| Dynamic Programming |
+| <a href="https://github.com/syedalmasali/Computer-Graphics-Approximation">Computer Graphics Approximations</a>| Quadratic Programming |
+| <a href="https://github.com/syedalmasali/Pixel-Editor">Pixel Editor Lab</a>| Pixels |
+| <a href="https://github.com/syedalmasali/Image-Filter">Image Filter</a>| Computer Graphics |
+
 
 ### Skills
 
