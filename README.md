@@ -11,12 +11,28 @@ My journey in computer science has ignited a passion for data analytics and soft
 
 | Project                                         | Skill         |
 |-----------------------------------------------|----------------------------|
-| <a href="https://github.com/syedalmasali/Adventurer-Game">Adventurer Game</a>| Object Oriented Programming |
-| <a href="https://github.com/syedalmasali/Food-Access">Food Access</a>| Data Processing |
 | <a href="https://github.com/syedalmasali/Palindrome">Palindrome</a>| Dynamic Programming |
 | <a href="https://github.com/syedalmasali/Computer-Graphics-Approximation">Computer Graphics Approximations</a>| Quadratic Programming |
+| <a href="https://github.com/syedalmasali/Adventurer-Game">Adventurer Game</a>| Object Oriented Programming |
+| <a href="https://github.com/syedalmasali/Food-Access">Food Access</a>| Data Processing |
 | <a href="https://github.com/syedalmasali/Pixel-Editor">Pixel Editor Lab</a>| Pixels |
 | <a href="https://github.com/syedalmasali/Image-Filter">Image Filter</a>| Computer Graphics |
+
+
+## Projects Upon Request
+
+| Project                                         | Skills         |Summary         |
+|-----------------------------------------------|----------------------------|----------------------------|
+| ASCIImation | ASCII | Uses a repeated sequence of these textual images to create an animation |
+| Labyrinth Maze Game | BFS and DFS | Use search algorithms to navigate through a grid maze |
+| Keyword Search | Hash Tables | Finds the ten most relevant pages that contain that keyword |
+| Railway Game | Graphs | Two-player route-building game to complete route goals and connect cities|
+| Arithmetic Logic Unit | Circuits | Create a processor that performs mathematical and logical operations |
+| Shape Manipulation | Polymorphism | Defines classes that represent different kinds of shapes |
+| Binary Maze | Assembly | Five-phase maze that is solved by inputing the correct password in Assembly |
+| Conway’s Game of Life | Parallelization | Implement a synchronized version of Conway’s Game of Life |
+| Personal Unix Shell | Executables | Program the command line of a terminal window |
+
 
 
 ### Skills
