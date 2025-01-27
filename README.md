@@ -29,7 +29,7 @@ My journey in computer science has ignited a passion for data analytics and soft
 | Railway Game | Graphs | Two-player route-building game to complete route goals and connect cities|
 | Arithmetic Logic Unit | Circuits | Create a processor that performs mathematical and logical operations |
 | Shape Manipulation | Polymorphism | Defines classes that represent different kinds of shapes |
-| Binary Maze | Assembly | Five-phase maze that is solved by inputing the correct password in Assembly |
+| Binary Maze | Assembly | Five-phase maze that is solved by inputting the correct password in Assembly |
 | Conway’s Game of Life | Parallelization | Implement a synchronized version of Conway’s Game of Life |
 | Personal Unix Shell | Executables | Program the command line of a terminal window |
 
