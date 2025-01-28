@@ -7,7 +7,7 @@ I am a first-generation rising senior at Swarthmore College, majoring in Enginee
 ## Objective
 My journey in computer science has ignited a passion for data analytics and software engineering. I am eager to transition into this field by joining a company that nurtures my curiosity and supports continuous learning.
 
-## Highlighted Projects
+## Highlighted Coding Projects
 
 | Project                                         | Skill         |
 |-----------------------------------------------|----------------------------|
@@ -18,13 +18,21 @@ My journey in computer science has ignited a passion for data analytics and soft
 | <a href="https://github.com/syedalmasali/Pixel-Editor">Pixel Editor Lab</a>| Pixelization |
 | <a href="https://github.com/syedalmasali/Image-Filter">Image Filter</a>| Computer Graphics |
 
+## Prominent Projects
+
+| Project                                         | Skills         |Summary         |
+|-----------------------------------------------|----------------------------|----------------------------|
+| Rainfall Prediction | Machine Learning | Preprocess data and use KNN, Random Forests, and Regression to predict next-day precipitation |
+| Base Models Implementation | Machine Learning | Implemented own version of KNN, Decision Trees, and Logistic Regression|
+| Keyword Search | Hash Tables | Finds the ten most relevant pages that contain that keyword |
+
 
 ## Projects Upon Request
 
 | Project                                         | Skills         |Summary         |
 |-----------------------------------------------|----------------------------|----------------------------|
 | ASCIImation | ASCII | Uses a repeated sequence of these textual images to create an animation |
-| Labyrinth Maze Game | BFS and DFS | Use search algorithms to navigate through a grid maze |
+| Labyrinth Maze Game | BFS and DFS | Utilize search algorithms to navigate through a grid maze |
 | Keyword Search | Hash Tables | Finds the ten most relevant pages that contain that keyword |
 | Railway Game | Graphs | Two-player route-building game to complete route goals and connect cities|
 | Arithmetic Logic Unit | Circuits | Create a processor that performs mathematical and logical operations |
