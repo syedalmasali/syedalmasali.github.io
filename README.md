@@ -18,18 +18,6 @@ My journey in computer science has ignited a passion for software engineering an
 | Client Server Model | Computer Networks | Implemented a base client and a concurrent server of an HTTP/TCP connection |
 | DNS Client | Computer Networks | Programmed an iterative name resolver that queries from root to various servers |
 
-## Highlighted Coding Projects
-
-| Project                                         | Skill         |
-|-----------------------------------------------|----------------------------|
-| <a href="https://github.com/syedalmasali/Computer-Graphics-Approximation">Computer Graphics Approximations</a>| Quadratic Programming |
-| <a href="https://github.com/syedalmasali/Palindrome">Palindrome</a>| Dynamic Programming |
-| <a href="https://github.com/syedalmasali/Adventurer-Game">Adventurer Game</a>| Object Oriented Programming |
-| <a href="https://github.com/syedalmasali/Food-Access">Food Access</a>| Data Processing |
-| <a href="https://github.com/syedalmasali/Pixel-Editor">Pixel Editor Lab</a>| Pixelization |
-| <a href="https://github.com/syedalmasali/Image-Filter">Image Filter</a>| Computer Graphics |
-
-
 ## Robotics Projects
 
 | Project                                         | Skills         |Summary         |
@@ -39,6 +27,17 @@ My journey in computer science has ignited a passion for software engineering an
 | Soccer Player | Mobile Robotics | Turtlebot identified a ball and moved to the designated spot |
 | Line Follower | Mobile Robotics | Turtlebot followed a continuous path using computer vision |
 | Music LED System | Embedded System | LED lights react to sound based on beat and decibel level |
+
+## Advanced Coding Projects
+
+| Project                                         | Skill         |
+|-----------------------------------------------|----------------------------|
+| <a href="https://github.com/syedalmasali/Computer-Graphics-Approximation">Computer Graphics Approximations</a>| Quadratic Programming |
+| <a href="https://github.com/syedalmasali/Palindrome">Palindrome</a>| Dynamic Programming |
+| <a href="https://github.com/syedalmasali/Adventurer-Game">Adventurer Game</a>| Object Oriented Programming |
+| <a href="https://github.com/syedalmasali/Food-Access">Food Access</a>| Data Processing |
+| <a href="https://github.com/syedalmasali/Pixel-Editor">Pixel Editor Lab</a>| Pixelization |
+| <a href="https://github.com/syedalmasali/Image-Filter">Image Filter</a>| Computer Graphics |
 
 ## Various Projects
 
