@@ -1,11 +1,22 @@
 ## Background
-I am a first-generation rising senior at Swarthmore College, majoring in Engineering and Computer Science as a Questbridge and Richard Rubin Scholar. My experiences include leadership roles in various student organizations, internships with Eaton Corporation and the City of Phoenix, and research in computer graphics and STEM education at Swarthmore College.
+I am a first-generation senior at Swarthmore College, majoring in Engineering and Computer Science as a Questbridge, Helen North, and Richard Rubin Scholar. My experiences include leadership roles in various student organizations, internships with Eaton Corporation and the City of Phoenix, and research in machine learning, computer graphics, and STEM education at Swarthmore College.
 
 <a href="https://www.linkedin.com/in/syed-almas-ali-5bb367188/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 ## Objective
-My journey in computer science has ignited a passion for data analytics and software engineering. I am eager to transition into this field by joining a company that nurtures my curiosity and supports continuous learning.
+My journey in computer science has ignited a passion for software engineering and data analytics. I am eager to transition into this field by joining a company that nurtures my curiosity and supports continuous learning in computer science.
+
+## Prominent Projects
+
+| Project                                         | Skills         |Summary         |
+|-----------------------------------------------|----------------------------|----------------------------|
+| Rainfall Prediction | Machine Learning | Preprocessed data and used KNN, Random Forests, and Regression to predict next-day precipitation |
+| Jukebox | Streaming | Designed music streaming application utilizing a C/S model |
+| Virtual Private Network | Security and Privacy | Programmed a VPN that implements IP tunneling using a TUN/TAP interface |
+| Base Models Implementation | Machine Learning | Implemented own version of KNN, Decision Trees, and Logistic Regression |
+| Client Server Model | Computer Networks | Implemented a base client and a concurrent server of an HTTP/TCP connection |
+| DNS Client | Computer Networks | Programmed an iterative name resolver that queries from root to various servers |
 
 ## Highlighted Coding Projects
 
@@ -18,16 +29,18 @@ My journey in computer science has ignited a passion for data analytics and soft
 | <a href="https://github.com/syedalmasali/Pixel-Editor">Pixel Editor Lab</a>| Pixelization |
 | <a href="https://github.com/syedalmasali/Image-Filter">Image Filter</a>| Computer Graphics |
 
-## Prominent Projects
+
+## Robotics Projects
 
 | Project                                         | Skills         |Summary         |
 |-----------------------------------------------|----------------------------|----------------------------|
-| Rainfall Prediction | Machine Learning | Preprocess data and use KNN, Random Forests, and Regression to predict next-day precipitation |
-| Base Models Implementation | Machine Learning | Implemented own version of KNN, Decision Trees, and Logistic Regression|
-| Keyword Search | Hash Tables | Finds the ten most relevant pages that contain that keyword |
+| Maze Solver | Mobile Robotics | Turtlebot navigated a maze by using Dijkstra's algorithm |
+| Slalom Racer | Mobile Robotics | Turtlebot cleared various checkpoints using computer vision |
+| Soccer Player | Mobile Robotics | Turtlebot identified a ball and moved to the designated spot |
+| Line Follower | Mobile Robotics | Turtlebot followed a continuous path using computer vision |
+| Music LED System | Embedded System | LED lights react to sound based on beat and decibel level |
 
-
-## Projects Upon Request
+## Various Projects
 
 | Project                                         | Skills         |Summary         |
 |-----------------------------------------------|----------------------------|----------------------------|
