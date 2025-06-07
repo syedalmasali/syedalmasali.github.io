@@ -1,3 +1,19 @@
+<table>
+  <tr>
+    <td width="200">
+      <img src="https://your-image-link.jpg" alt="Syed Ali" width="180"/>
+    </td>
+    <td>
+      <h3>Syed Ali </h3>
+      <p>
+        Hey! I'm a passionate engineer, integrating engineering and computer science to develop efficient, data-driven solutions to help organizations solve complex issues and make smarter decisions.<br><br>
+        <strong>Email:</strong> almassyed2025@gmail.com <br>
+        <strong>Fun fact:</strong> A goal of mine is to visit all the countries in the world. I have visited 19 so far!
+      </p>
+    </td>
+  </tr>
+</table>
+
 ## Background
 Recent graduate in CS and Engineering from Swarthmore College as a Questbridge, Helen North, and Richard Rubin Scholar. My experiences include leadership roles in various student organizations, internships with Eaton Corporation and the City of Phoenix, and research in machine learning, computer graphics, and STEM education at Swarthmore College.
 
@@ -14,11 +30,11 @@ My journey in CS and Engineering has ignited a passion for software engineering 
 | Rainfall Prediction | Machine Learning | Preprocessed data and used KNN, Random Forests, and Regression to predict next-day precipitation |
 | Jukebox | Streaming | Designed music streaming application utilizing a C/S model |
 | Virtual Private Network | Security and Privacy | Programmed a VPN that implements IP tunneling using a TUN/TAP interface |
-| Base Models Implementation | Machine Learning | Implemented own version of KNN, Decision Trees, and Logistic Regression |
+| Base Models Implementation | Machine Learning | Implemented KNN, Decision Trees, and Logistic Regression from scratch |
 | Client Server Model | Computer Networks | Implemented a base client and a concurrent server of an HTTP/TCP connection |
 | DNS Client | Computer Networks | Programmed an iterative name resolver that queries from root to various servers |
 
-## Robotics Projects
+## Electrical and Computer Engineering Projects
 
 | Project                                         | Skills         |Summary         |
 |-----------------------------------------------|----------------------------|----------------------------|
