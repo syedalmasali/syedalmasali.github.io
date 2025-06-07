@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="200">
-      <img src="https://your-image-link.jpg" alt="Syed Ali" width="180"/>
+      <img src="images/syed.jpeg" alt="Syed Ali" width="180" height="180"  />
     </td>
     <td>
       <h3>Syed Ali </h3>
