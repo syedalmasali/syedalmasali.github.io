@@ -1,11 +1,11 @@
 ## Background
-I am a first-generation senior at Swarthmore College, majoring in Engineering and Computer Science as a Questbridge, Helen North, and Richard Rubin Scholar. My experiences include leadership roles in various student organizations, internships with Eaton Corporation and the City of Phoenix, and research in machine learning, computer graphics, and STEM education at Swarthmore College.
+Recent graduate in CS and Engineering from Swarthmore College as a Questbridge, Helen North, and Richard Rubin Scholar. My experiences include leadership roles in various student organizations, internships with Eaton Corporation and the City of Phoenix, and research in machine learning, computer graphics, and STEM education at Swarthmore College.
 
 <a href="https://www.linkedin.com/in/syed-almas-ali-5bb367188/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 ## Objective
-My journey in computer science has ignited a passion for software engineering and data analytics. I am eager to transition into this field by joining a company that nurtures my curiosity and supports continuous learning in computer science.
+My journey in CS and Engineering has ignited a passion for software engineering and data analytics in a power-efficient manner. I am eager to transition into this field by joining a company that nurtures my curiosity and supports continuous learning in these fields.
 
 ## Prominent Projects
 
@@ -28,7 +28,7 @@ My journey in computer science has ignited a passion for software engineering an
 | Line Follower | Mobile Robotics | Turtlebot followed a continuous path using computer vision |
 | Music LED System | Embedded System | LED lights react to sound based on beat and decibel level |
 
-## Advanced Coding Projects
+## Other Coding Projects
 
 | Project                                         | Skill         |
 |-----------------------------------------------|----------------------------|
