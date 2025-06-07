@@ -1,12 +1,12 @@
 <table>
   <tr>
     <td width="200">
-      <img src="images/syed.jpeg" alt="Syed Ali" width="180" height="180"  />
+      <img src="images/syedAli.jpg" alt="Syed Ali" width="180" />
     </td>
     <td>
       <h3>Syed Ali </h3>
       <p>
-        Hey! I'm a passionate engineer, integrating engineering and computer science to develop efficient, data-driven solutions to help organizations solve complex issues and make smarter decisions.<br><br>
+        Hey! I'm a passionate engineer, integrating engineering and computer science to develop efficient, data-driven solutions to help organizations solve complex issues and make smarter decisions. I utilize mathematical modeling, software, and systems thinking to turn ideas into practical, scalable, and impactful action. <br><br>
         <strong>Email:</strong> almassyed2025@gmail.com <br>
         <strong>Fun fact:</strong> A goal of mine is to visit all the countries in the world. I have visited 19 so far!
       </p>
